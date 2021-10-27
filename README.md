@@ -13,7 +13,7 @@
 |DI09|請找出 AppEvent 類別，不符合 開放封閉原則 地方||
 |DI10|修正1 - 找出 AppEvent 類別，不符合 OCP 地方||
 |DI11|請修正 AppEvent 類別，使其符合 開放封閉原則||
-|DI12|||
+|DI12|未套用 OCP 前 – 設計一個可以存取 SQL Server 類別||
 |DI13|||
 |DI14|||
 |DI15|||
